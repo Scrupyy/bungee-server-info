@@ -1,0 +1,4 @@
+name: ServerInfo
+main: de.scrupy.serverinfo.ServerInfoPlugin
+version: 1.0
+author: Scrupy
